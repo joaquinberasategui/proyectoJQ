@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(148, 241, 229);
+}
+h1{
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+}
+nav{
+    background-color: rgb(39, 9, 173);
+}
+
